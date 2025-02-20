@@ -1,2 +1,2 @@
 # Iniyan
-Repository created for prcticing in Iniyan PoV
+Repository created for practicing in Iniyan PoV
